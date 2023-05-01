@@ -4,7 +4,7 @@ Use your knowledge of Python and unsupervised learning to predict if cryptocurre
 
 #### Find the Best Value for k Using the Original Scaled DataFrame
 - Use the elbow method on the PCA data
-- 
+
 ### Cluster Cryptocurrencies with K-means Using the Original Scaled Data
 - Initialize the K-means model with the best value for k.
 - Fit the K-means model using the PCA data.
