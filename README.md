@@ -15,6 +15,7 @@ Use your knowledge of Python and unsupervised learning to predict if cryptocurre
 
 #### Answer the following questions:
 What is the best value for k?
+What is the total explained variance of the three principal components?
 What is the best value for k when using the PCA data?
 Does it differ from the best k value found using the original data?
 What is the impact of using fewer features to cluster the data using K-Means?
